@@ -21,7 +21,7 @@ This search engine is versatile and can be employed in various contexts. Here ar
 ## How to Run 🏃‍♂️
 
 1. Clone this repository.
-2. Replace the sample CSV file FILE_NAME.csv with your own CSV file containing the desired data. Ensure that the CSV file has headers in the first row.
+2. Replace the sample CSV file FILE_NAME.csv in [script.js](https://github.com/nitinkumar30/search-engine-based-on-csv/blob/v2.1.0/script.js) with your own CSV file containing the desired data. Ensure that the CSV file has headers in the first row.
 2. Install the `live-server` npm package globally: `npm install -g live-server`.
 3. Navigate to the project directory and run: `live-server`.
 
