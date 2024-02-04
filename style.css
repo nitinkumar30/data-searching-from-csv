@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f4f4f4; */
+    /* background-image: linear-gradient(to right, #FF9933, #FFCC66); */
+
+}
+.search-container {
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#search-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.result-count-btn {
+    margin-left: 40px; /* Add margin to separate from the search button */
+    padding: 10px 20px;
+    background-color: #9ef607;
+    color: #060606;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+       
+.search-input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    /* background-image: linear-gradient(to right, #fa95c8, #FFC0CB); */
+
+}
+
+.search-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+#search-results {
+    margin-top: 20px;
+    text-align: left;
+    /* overflow-x: auto;  */
+    padding: 0 20px; /* Add padding on both sides */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding-left: 10px;
+}
+
+/* tr:nth-child(even) {
+    background-color: #f4ebbc;
+}
+
+tr:nth-child(odd) {
+    background-color: #e4e8fc;
+} */
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    max-width: 100px;
+    white-space:pre-wrap;
+    word-wrap: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+th {
+    position: sticky;
+    top: 10px;
+    background-color: #f5cacd;
+    z-index: 1; /* Ensure the header stays above other content */
+}
+
+.hide {
+    display: none;
+}
+
+.dropdown {
+    /* padding: 8px; */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    margin-right: 40px;
+    padding: 10px 20px;
+    /* background-image: linear-gradient(to right, #81a7f3, #A4BDFE); */
+
+}
+
+.dropdown option {
+    padding: 8px;
+    cursor: pointer;
+}
+
+p{
+    text-align: center;
+}
