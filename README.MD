@@ -35,7 +35,7 @@ This search engine is versatile and can be employed in various contexts. Here ar
 
 ## Working
 
-[![Working video](https://github.com/nitinkumar30/search-engine-based-on-csv/blob/v2.1.0/csv_searchEngine.mp4)](https://github.com/nitinkumar30/search-engine-based-on-csv/blob/v2.1.0/csv_searchEngine.mp4)
+![Working video](https://github.com/nitinkumar30/search-engine-based-on-csv/blob/v2.1.0/csv_searchEngine.mp4)
 
 ## Future Improvements 🚧
 
