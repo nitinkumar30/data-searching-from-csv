@@ -33,6 +33,10 @@ This search engine is versatile and can be employed in various contexts. Here ar
 | Bug Fixes    | Various bugs have been squashed for a smoother user experience. 🐞 |
 | Code Separation | Code has been organized into HTML, CSS, and JS files for better maintainability. 🗂️ |
 
+## Working
+
+[![Working video](https://github.com/nitinkumar30/search-engine-based-on-csv/blob/v2.1.0/csv_searchEngine.mp4)](https://github.com/nitinkumar30/search-engine-based-on-csv/blob/v2.1.0/csv_searchEngine.mp4)
+
 ## Future Improvements 🚧
 
 - **Automatic Data Fetching**: Fetch data without clicking the search button.
