@@ -9,7 +9,7 @@ function search() {
     const table = document.createElement('table');
     resultsContainer.innerHTML = ''; // Clear previous results
     try {
-        fetch('INDIAN GOVERNMENT EMPLOYEES.csv')
+        fetch('FILE_NAME.csv')
             .then(response => response.text())
             .then(csvData => {
                 const parsedData = Papa.parse(csvData, { header: true });
