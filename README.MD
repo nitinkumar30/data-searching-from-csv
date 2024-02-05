@@ -35,7 +35,7 @@ This search engine is versatile and can be employed in various contexts. Here ar
 
 ## Working
 
-![Working video](csv_searchEngine.mp4)
+![Working video](csv_searchEngine.gif)
 
 ## Future Improvements 🚧
 
